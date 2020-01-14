@@ -1,0 +1,22 @@
+{
+  "address_book": [
+    {
+      "name": "Danielle Hanks",
+      "id": 42,
+      "email": "pebkac@gmail.com",
+      "phone_number": {
+        "number": "(123) 456-7890",
+        "phone_type": "mobile"
+      }
+    },
+    {
+      "name": "Tessa Cleo",
+      "id": 9,
+      "email": "kittens@gmail.com",
+      "phone_number": {
+        "number": "(098) 765-4321",
+        "phone_type": "home"
+      }
+    }
+  ]
+}

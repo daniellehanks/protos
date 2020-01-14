@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<address-book>
+  <person>
+    <name>Danielle Hanks</name>
+    <id>42</id>
+    <email>pebkac@gmail.com</email>
+    <phone-number>
+      <number>(123) 456-7890</number>
+      <phone-type>mobile</phone-type>
+    </phone-number>
+  </person>
+  <person>
+    <name>Tessa Cleo</name>
+    <id>9</id>
+    <email>kittens@gmail.com</email>
+    <phone-number>
+      <number>(098) 765-4321</number>
+      <phone-type>home</phone-type>
+    </phone-number>
+  </person>
+</address-book>
