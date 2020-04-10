@@ -1,0 +1,9 @@
+syntax = "proto3";
+
+enum BaseState {
+  option allow_alias = true;
+  BASE_STATE_UNSPECIFIED = 0;
+  BASE_STATE_CHARGING = 10;
+  BASE_STATE_MONITORING = 42;
+  BASE_STATE_MONITORING_ALIAS = 42;
+}
